@@ -1,37 +1,20 @@
-# Code like a Girl Online 2021
+# CFG Week One
+## Intro to the world of the web and HTML
 
-Vítejte v repozitáři projektu Code Like a Girl Online 2021.
+Welcome to Code First Girls!
 
-##  Facebook
-Přidej se do skupiny [CZ | Code Like a Girl](https://www.facebook.com/groups/639640177416949)
+To complete this exercise, click on the green `Clone or Download` button on the top right, and select the `Download ZIP` option.
 
-##  Přednášky
+Unzip the folder and move it into your `coding_course` folder. Then, open the whole folder in Atom.
 
-Ke kterékoliv přednášce se můžete kdykoliv vrátit:
-#### Úvod a Instalace
-- [PDF](docs/presentation/instalace/Instalace.pdf) 
+*Top tip! You can do this by dragging the folder onto the Atom icon on Macs*
 
-#### GitHub
-- [Power Point](docs/presentation/github/GitHub.pptx)
-- [PDF](docs/presentation/github/code-like-a-girl-github.pdf)
+## Task one
+Open the file `example.html` in Chrome and look around with the developer tools. What HTML tags can you see, and what do you think they stand for?
 
-#### HTML
-- [Power Point](docs/presentation/html/HTML.pptx)
-- [PDF](docs/presentation/html/HTML.pdf)
-#### CSS
-- [Power Point](docs/presentation/css/CSS_new-2.pptx)
-- [PDF](docs/presentation/css/CSS_new-2.pdf)
-#### UX 
+## Task two
+Open the file `index.html` in your text editor and in Chrome, change it into valid HTML file so that it looks like `solution.jpg`. Make sure to add the `doctype`, `html`, `head`, and `body` tags!
 
-##  Vaše pískoviště a projekt
 
-Připravili jsme pro vás pískoviště pro jednotlivá témata. Každé pískoviště obsahuje páš souborů které si můžete libovolně měnit a hrou se naučit dané téma bez toho aby jste se museli zdržovat kopírováním souborů.
-#### HTML
-#### CSS
-- [01 - propojení CSS a HTML](sandbox/css-01/index.html)
-- [02 - barvíme](sandbox/css-02/index.html)
-#### Javascript
-
-Také jsme pro vás připravili základ stránky vašeho projektu: [project](sandbox/css-02/index.html)
-
-## Děkujeme
+## Extension task
+Create a new file called `html-cheatsheet.html`. In here write down all you can know about HTML and the different tags from the lesson and from the example page. Make sure to mark it all up with valid HTML, and make sure that it is properly indented!
